@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Manager Layouts</string>
+    <string name="text_frame_layout">Texto Uno</string>
+    <string name="text_frame_layout2">Texto Dos</string>
+    <string name="text_linear_layout1">Boton Amarillo</string>
+    <string name="text_linear_layout2">Boton Azul</string>
+    <string name="text_linear_layout3">Boton Rojo</string>
+    <string name="text_linear_layout4">Boton Verde</string>
+    <string name="text_linear_layout5">Boton Naranja</string>
+</resources>
